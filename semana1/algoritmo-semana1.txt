@@ -1,0 +1,10 @@
+Algoritmo: Pasos ordenados para preparar una taza de Café
+Inicio:
+1. Reunir los elementos: una taza, café,agua,una cuchara y una cafetera o calentador.
+2. Calentar el agua en el calentador hasta que esté hirviendo.
+3. Colocar una cucharada de café dentro del filtro o directamente en la taza.
+4. Verter el agua caliente sobre el café.
+5. Mezclar con la cuchara durante unos segundos.
+6. Si desea, agregar azúcar al gusto y volver a mezclar.
+7. Esperar un minuto a que se temple un proyectos
+Fin: Disfrutar la taza de café
