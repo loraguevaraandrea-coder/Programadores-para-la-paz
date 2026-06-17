@@ -1,0 +1,11 @@
+Pregunta 1: ¿Qué es una ruta en Express?
+Respuesta: B. Una dirección que define cómo responde el servidor a una solicitud
+
+Pregunta 2: ¿Qué método HTTP se utiliza comúnmente para solicitar datos de un servidor?
+Respuesta: B. GET
+
+Pregunta 3: ¿Qué método HTTP se utiliza comúnmente para enviar datos para crear un nuevo recurso?
+Respuesta: A. POST
+
+Pregunta 4: ¿Qué es una API en el contexto del desarrollo web?
+Respuesta: B. Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí

@@ -1,0 +1,7 @@
+Análisis de la ruta POST /reporte
+
+1. ¿Qué hace esta ruta?
+La ruta recibe información estructurada en formato JSON en el cuerpo de la petición (req.body), la procesa y responde enviando un objeto que confirma la correcta recepción del mensaje junto con el estado del reporte enviado.
+
+2. ¿Para qué sirve en una aplicación comunitaria?
+Esta ruta permite recolectar de forma directa y ordenada las inquietudes, alertas de seguridad o reportes de infraestructura (como daños en vías públicas o servicios) de los habitantes de una localidad, sirviendo como canal de participación ciudadana y optimizando las respuestas del liderazgo comunitario.
