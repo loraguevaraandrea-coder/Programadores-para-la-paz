@@ -1,0 +1,4 @@
+Comandos utilizados en la semana 2:
+- mkdir: Para crear una nueva carpeta o directorio.
+- cd: Para cambiar de directorio y navegar entre carpetas.
+- touch: Para crear archivos de texto vacíos.
