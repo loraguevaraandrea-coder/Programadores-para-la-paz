@@ -1,0 +1,8 @@
+Explicación de la respuesta del servidor:
+Cuando enviamos una petición POST a http://localhost:3000/registro con el JSON de María, el servidor procesa las propiedades a través de `req.body` y devuelve una respuesta exitosa confirmando la recepción con el siguiente formato estructurado:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

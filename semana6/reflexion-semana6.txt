@@ -1,0 +1,4 @@
+La importancia de que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada radica en la eficiencia de la gestión pública. 
+Cuando la información llega de manera desorganizada, como textos libres extensos o audios, se requiere intervención humana constante para clasificar el problema, lo que retrasa las soluciones.
+ Al implementar formatos estándar como JSON, los datos se dividen claramente en variables precisas como el tipo de falla y su descripción. Esto permite que los sistemas informáticos automaticen el procesamiento, clasifiquen las incidencias por prioridad de manera inmediata y las deriven de forma exacta al departamento encargado. 
+ En conclusión, la estructura de datos optimiza los recursos de la comunidad, agiliza los tiempos de respuesta y permite generar estadísticas reales para mejorar los servicios públicos del sector de forma transparente.
