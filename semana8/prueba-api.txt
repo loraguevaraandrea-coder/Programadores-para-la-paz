@@ -1,0 +1,20 @@
+PRUEBA DE ENDPOINTS - SEMANA 8
+
+Método: POST
+Ruta de prueba: http://localhost:3000/incidencias
+Cabecera: Content-Type: application/json
+
+Cuerpo de prueba enviado en la solicitud (JSON):
+{
+  "tipo": "Falla de alcantarillado",
+  "descripcion": "Se presenta un desbordamiento de aguas negras en la calle principal afectando la movilidad del sector."
+}
+
+Respuesta del Servidor obtenida (Status 201 Created):
+{
+  "mensaje": "Incidencia registrada exitosamente en la base de datos",
+  "datos": {
+    "tipo": "Falla de alcantarillado",
+    "descripcion": "Se presenta un desbordamiento de aguas negras en la calle principal afectando la movilidad del sector."
+  }
+}

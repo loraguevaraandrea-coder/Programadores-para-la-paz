@@ -1,0 +1,5 @@
+La posibilidad de registrar de manera persistente los reportes ciudadanos mediante el método POST marca un hito fundamental en el desarrollo de software comunitario. 
+A diferencia de las respuestas temporales que se desvanecen al apagar un servidor, el uso combinado de Express y el método .insert() de Knex asegura que cada queja, falla o sugerencia se grabe directamente en un disco duro dentro de PostgreSQL.
+ Esto le otorga al sistema un valor real, ya que los datos recopilados no se pierden y quedan disponibles para futuras consultas, de modo que no dependemos de la memoria volátil.
+  Para los líderes comunitarios o administradores públicos, esta permanencia permite realizar un seguimiento histórico de los problemas del sector, medir los tiempos de solución y tomar decisiones informadas basadas en estadísticas reales. 
+  En última instancia, la persistencia de datos convierte a una simple aplicación web en una herramienta confiable para la participación y la transformación social.
