@@ -1,0 +1,4 @@
+Es fundamental que las plataformas tecnológicas utilizadas por las comunidades funcionen de manera estable y segura en un servidor porque representan el canal de interacción, información y soporte de los ciudadanos. 
+Cuando un servidor comunitario falla o es vulnerable, se interrumpe el acceso a servicios esenciales, lo que genera desconfianza y puede paralizar procesos de gestión colectiva o difusión pública.
+ La estabilidad garantiza la disponibilidad constante de la información ante picos de tráfico de usuarios, mientras que la seguridad protege los datos privados de los miembros contra accesos maliciosos o filtraciones.
+  En conclusión, un servidor robusto asegura que la comunicación comunitaria permanezca libre de censura técnica, caídas inesperadas y ataques informáticos, permitiendo un desarrollo digital confiable.

@@ -1,0 +1,8 @@
+1. ¿Qué ocurre cuando ejecutas 'node server.js'?
+Al ejecutar el comando, Node.js interpreta el archivo y levanta un proceso en segundo plano que abre un canal de comunicación en el puerto especificado, quedándose en un estado activo de escucha.
+
+2. ¿Qué mensaje aparece en la terminal?
+Aparece el mensaje: "Servidor ejecutándose en puerto 3000"
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+El navegador recibe una respuesta con una estructura de datos en formato JSON que contiene el estado del servidor ("Servidor funcionando") y el tipo de servicio ("API comunitaria").
