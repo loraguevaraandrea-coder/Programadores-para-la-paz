@@ -1,0 +1,4 @@
+Prueba de Endpoints de la API - Semana 7
+
+- Al hacer un GET a http://localhost:3000/usuarios, el Query Builder de Knex hace un 'SELECT * FROM usuarios' a la base de datos en PostgreSQL y retorna un arreglo con todos los ciudadanos registrados.
+- Al hacer un GET a http://localhost:3000/usuarios/1, 'req.params.id' toma el valor '1', Knex filtra con '.where()' y devuelve únicamente el objeto que coincide con ese identificador único.
